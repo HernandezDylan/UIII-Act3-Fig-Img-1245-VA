@@ -1,8 +1,0 @@
-## Imagen original
-![alt text](image.png)
-## Puntos en la imagen por coordenadas
-![alt text](image-1.png)
-## Imagen con cuadro puntos y circulo
-![alt text](image-3.png)
-## Resultado del codigo
-![alt text](image-4.png)
